@@ -1,6 +1,6 @@
 import { SIGN_IN, SIGN_OUT } from './types';
-// Put action creators here
 
+// Put action creators here
 export const signIn = (userId) => {
     return {
         type: SIGN_IN,
