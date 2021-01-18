@@ -9,6 +9,24 @@
       "title": "Other Stream",
       "description": "Here's another stream",
       "id": 2
+    },
+    {
+      "title": "I Created This Stream",
+      "description": "This is a new stream",
+      "userId": "112769651112546134082",
+      "id": 3
+    },
+    {
+      "title": "New Stream",
+      "description": "new stream",
+      "userId": "112769651112546134082",
+      "id": 4
+    },
+    {
+      "title": "New Stream",
+      "description": "new stream",
+      "userId": "112769651112546134082",
+      "id": 5
     }
   ]
 }
