@@ -22,7 +22,7 @@ export const createStream = (formValues) => async (dispatch, getState) => {
 	dispatch({ type: CREATE_STREAM, payload: response.data });
 
 	// Do some programmatic navigation to get the user back to the root route
-	// use .push('/route path') to navigate around
+	// use .push('/route') to navigate around
 	history.push('/');
 };
 
