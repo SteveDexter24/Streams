@@ -56,6 +56,12 @@
       "title": "Component reuse edited",
       "description": "I created this stream after a refactor edited",
       "id": 10
+    },
+    {
+      "title": "New Stream",
+      "description": "Another stream",
+      "userId": "112769651112546134082",
+      "id": 11
     }
   ]
 }
