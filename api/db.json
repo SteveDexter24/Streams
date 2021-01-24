@@ -1,31 +1,34 @@
 {
-  "streams": [
-    {
-      "title": "My Stream",
-      "description": "This is a great stream!",
-      "id": 1
-    },
-    {
-      "title": "Other Stream",
-      "description": "Here's another stream",
-      "id": 2
-    },
-    {
-      "title": "I Created This Stream",
-      "description": "This is a new stream",
-      "userId": "112769651112546134082",
-      "id": 3
-    },
-    {
-      "title": "Programming Navigation",
-      "description": "You should not see this in the form page!!",
-      "userId": "112769651112546134082",
-      "id": 7
-    },
-    {
-      "title": "Component reuse edited",
-      "description": "I created this stream after a refactor edited",
-      "id": 10
-    }
-  ]
+    "streams": [
+        {
+            "title": "My Stream",
+            "description": "This is a great stream!",
+            "userId": "112769651112546134082",
+            "id": 1
+        },
+        {
+            "title": "Other Stream",
+            "description": "Here's another stream",
+            "userId": "112769651112546134082",
+            "id": 2
+        },
+        {
+            "title": "I Created This Stream",
+            "description": "This is a new stream",
+            "userId": "112769651112546134082",
+            "id": 3
+        },
+        {
+            "title": "Programming Navigation",
+            "description": "You should not see this in the form page!!",
+            "userId": "112769651112546134082",
+            "id": 7
+        },
+        {
+            "title": "Component reuse edited",
+            "description": "I created this stream after a refactor edited",
+            "userId": "112769651112546134082",
+            "id": 10
+        }
+    ]
 }
